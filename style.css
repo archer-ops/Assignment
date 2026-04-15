@@ -1,0 +1,13 @@
+h1{color: red;}
+p{color: blue;}
+h1{text-align: center;}
+p{text-align: justify;}
+h1{font-style: italic;}
+p{font-style: inherit;}
+h1{font-weight: bold;}
+p{font-weight: 300;}
+h1{font-family: 'Times New Roman', Times, serif;}
+p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h1{font-size: xx-large;}
+p{font-size: medium;}
+p{line-height: 0cap;}x
